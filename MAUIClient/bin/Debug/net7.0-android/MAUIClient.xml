@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MAUIClient</name>
+    </assembly>
+    <members>
+        <member name="M:MAUIClient.MainPage.OnConnectAPI(System.Object,System.EventArgs)">
+            <summary>
+            Подключение к API
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+    </members>
+</doc>
